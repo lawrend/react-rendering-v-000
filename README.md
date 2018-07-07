@@ -88,7 +88,7 @@ This method isn't used very often, but it is kind of a look back to the update t
 In our theater world, this could be a critic looking back at the play that was just performed and giving it a different review. For example, perhaps the new version of the play contains more adult language and has to have a more adult rating.
 
 ## Summary
-These are all the tools we get to help us decide how to react to changes in our component. The `render()` method is the only one we *must* have - everything else is optional. Use these methods sparingly. In the ideal world, we want to have as little of these methods as possible.
+These are all the tools we get to help us decide how to react to changes in our component. The `render()` method is the only one we *must* have - everything else is optional. Use these methods sparingly. In the ideal world, we want to use as few of these methods as possible.
 
 ### Updating lifecycle methods
 Not called on initial render, but always called whenever a subsequent re-render is triggered:
@@ -108,7 +108,7 @@ Not called on initial render, but always called whenever a subsequent re-render 
 
 ## Resources
 
-- [React: Component Specs and Lifecycle](https://github.com/learn-co-curriculum/react-rendering)
+- [React: Component Specs and Lifecycle](https://reactjs.org/docs/react-component.html)
 - [Idempotent Operations](https://stackoverflow.com/questions/1077412/what-is-an-idempotent-operation)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/react-rendering'>Rendering</a> on Learn.co and start learning to code for free.</p>
